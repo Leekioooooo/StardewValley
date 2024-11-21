@@ -1,8 +1,10 @@
-﻿{
+{
     "skill.name": "烹饪",
     "skill.perk": "你制作的食物效果增加 {{bonus}}% ",
     "skill.perk_bonus": "你制作的食物效果增加 {{bonus}}% ",
 
+    "config.AlternativeSkillPageIcon": "技能图标选择",
+    "config.AlternativeSkillPageIcon.tooltip": "需要重新启动游戏, 将技能图标由厨师帽改为石锅或刀叉。",
 
     "config.ExperienceFromCooking": "基础烹饪经验",
     "config.ExperienceFromCooking.tooltip": "烹饪获得的基础经验值(设置一个较低的数值以鼓励制作更多样的菜肴)。",
@@ -30,7 +32,10 @@
 
     "moonslime.Cooking.Profession10b2.buff": "神之舌",
 
-    "moonslime.Cooking.skill_book.levelup": "你在烹饪之路上更进一步！"
+    "moonslime.Cooking.skill_book.levelup": "你在烹饪之路上更进一步！",
+
+
+     "moonslime.Cooking.soda.code_name": "苏打水"
 
 
 }
